@@ -1,0 +1,1152 @@
+
+
+
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.section-seven img{
+    height: 60px;
+    width: 60px;
+}
+
+
+
+.header-section{
+    background-color: #212529;
+    color: white;
+    font-size: large;
+    position: fixed;
+    top: 0;
+}
+
+
+
+
+
+
+
+.header-section .navbar{
+    
+}
+
+
+
+.header-section .top-image img{
+    height: auto;
+    width: 128px;
+
+}
+
+
+.header-section .row{
+    padding: 10px;
+    padding-left: 5rem;
+
+}
+
+
+.navbar-collapse{
+    justify-content: space-around;
+
+}
+
+
+
+
+.dropdown{
+    color: white;
+    background-color:#212529;
+}
+
+dropdown-menu ul a{
+    color: white;
+}
+
+
+
+
+.section-one{
+    padding-left: 6rem;
+    padding-right: 6rem;
+    background-color: #fafbfb;
+
+}
+
+
+
+.section-one .row{
+    margin-top: 20px;   
+}
+
+.section-one .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-one .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+
+
+
+.section-two{
+    padding-left: 6rem;
+    padding-right: 6rem;
+   
+}
+
+.section-two .row{
+    margin-top: 20px;   
+}
+
+.section-two .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-two .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+
+.section-three{
+    padding-left: 6rem;
+    padding-right: 6rem;   
+}
+
+.section-three .row{
+    margin-top: 20px;   
+}
+
+.section-three .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-three .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-four .paragraph-text{
+    padding: 2rem;
+
+}
+
+.section-four .row h4{
+    font-weight: normal;
+}
+
+.section-four .row h5{
+    font-weight: normal;
+}
+
+
+
+.section-four .card{
+    width: 312px;
+    height: 412px;
+    
+}
+
+
+
+.section-five{
+    padding-left: 6rem;
+    padding-right: 6rem;   
+}
+
+
+
+.section-five .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-five .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+
+.section-six{
+    margin-top: 50px;
+    padding-left: 6rem;
+    padding-right: 6rem; 
+    background-color: #fafbfb;
+
+}
+
+.section-six .row{
+    margin-top: 20px;
+    padding-top: 10px;
+       
+}
+
+.section-six .row h6{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+.section-six .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-six img{
+    height: 60px;
+    width: 60px;
+
+}
+
+
+
+
+
+
+.card-one{
+    height: 300px;
+    padding: 2rem;
+    box-shadow: 0 0 0.2rem #212529;
+}
+
+
+
+.middle-section{
+    margin-top: 20px;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-top: 50px;    
+}
+
+
+
+
+.section-five{
+    margin-top: 20px;
+    padding-top: 50px;
+}
+
+
+
+
+
+.middle-section .first{
+    padding-top: 50px;
+}
+
+
+.middle-section .second{
+    padding-top: 50px;
+}
+
+.middle-section .third{
+    padding-top: 50px;
+}
+
+
+.middle-section .fourth{
+    padding-top: 50px;
+}
+
+.middle-section .fifth{
+    padding-top: 50px;
+}
+
+
+.section-five .first{
+    padding-top: 50px;
+}
+
+
+.section-five .second{
+    padding-top: 50px;
+}
+
+
+.section-five .third{
+    padding-top: 50px;
+}
+
+
+.section-five img{
+    width: 100%;
+
+}
+
+
+
+
+.middle-section img{
+    width: 100%;
+}
+
+.middle-section .col-md-6{
+    width: max-content;
+}
+
+
+.section-four .btn-signup{
+    color: #fff;
+    background-color: #00897b;
+    width: 120px;
+    border-radius: 0.25rem;
+
+}
+
+
+
+.section-four .btn-signin{
+    color: #fff;
+    background-color: #00897b;
+    width: 120px;
+    border-radius: 0.25rem;
+
+}
+
+.acc-create{
+    padding-top: 50px;
+}
+
+
+.acc-create img{
+    height: 155px;
+    width: auto;
+}
+
+
+.acc-already-here{
+    padding-top: 50px;
+}
+
+
+
+
+.middle-section .middle-text{
+    background-color: #fafbfb;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    justify-content: center;
+}
+
+
+.middle-section .middle-text{
+    background-color: #fafbfb;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    justify-content: center;
+}
+
+
+
+
+.section-five .button-outline-section{
+    padding-top: 2rem;
+    
+}
+
+
+.section-five .button-outline-section .btn-outline-primary{
+    background-color: #fff;
+    border-color: #00897b;
+    color: #00897b;
+    height: fit-content;
+    width: fit-content;
+}
+
+.section-five .button-outline-section a :hover{
+    background-color: #00897b;
+    border-color: #00897b;
+    color: #fff;
+}
+
+
+.section-five .button-section{
+    height: fit-content;
+    width: fit-content;
+    padding-top: 20px;
+}
+
+.middle-section .middle-text .row h3{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 28px;   
+}
+
+.middle-section .middle-text .row h5{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
+.section-five .text-section .row h3{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 28px;
+
+}
+
+.section-five .text-section .row h5{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.section-five .text-section-one{
+    padding-left: 2rem;
+}
+
+.section-five .text-section{
+    padding-right: 2rem;
+}
+
+
+
+
+
+.section-five .text-section-one .row h3{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 28px;
+
+}
+
+.section-five .text-section-one .row h5{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+.middle-section .second{
+    margin-top: 20px;
+}
+
+.middle-section .first{
+    margin-top: 20px;
+}
+
+.middle-section .third{
+    margin-top: 20px;
+    
+}
+
+.middle-section .fourth{
+    margin-top: 20px;
+    
+}
+
+
+.section-eight{
+    
+    padding-left: 6rem;
+    padding-right: 6rem;
+    background-color: #fafbfb;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+
+.section-eight .block-section{
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+}
+
+
+
+
+
+
+.section-eight .row{
+    margin-top: 20px;   
+}
+
+.section-eight .row h4{
+    font-weight: normal;
+    margin-top: 16px;   
+}
+
+.section-eight .row h6{
+    font-weight: normal;
+    margin-top: 16px; 
+    font-weight: lighter;
+
+}
+
+
+
+
+
+
+
+.section-eight .section-eight-first{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-right: 20px;
+    background-color: #fff;
+
+    border-top-style: solid;
+    border-top-width: 8px;
+    border-top-color: #9BBB65;
+
+}
+
+
+.section-eight .section-eight-third{
+    
+    border-top-style: solid;
+    border-top-width: 8px;
+    border-top-color: #F5634A;
+
+    box-shadow: 0 0 0.25rem #888;
+    background-color: #fff;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+
+
+
+.section-eight .section-eight-first .first-one{
+    float: left;
+    width: max-content;
+    padding-right: 5rem;
+    margin-left: 1rem;
+
+}
+
+
+.section-eight .section-eight-second{
+    margin-right: 20px;
+    box-shadow: 0 0 0.25rem #888;
+    background-color: #fff;
+    padding-top: 1rem;
+
+    border-top-style: solid;
+    border-top-width: 8px;
+    border-top-color: #FFA326;
+}
+
+
+.section-eight .section-eight-first .first-two{
+
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+
+
+
+.section-eight .section-eight-first{
+    box-shadow: 0 0 0.25rem #888;
+}
+
+
+
+
+.section-nine{
+    
+    padding-left: 6rem;
+    padding-right: 6rem;   
+}
+.section-nine .row{
+    margin-top: 20px; 
+    margin-right: 1rem;
+
+}
+
+.section-nine .form-row{
+    width: max-content;
+
+}
+
+
+.section-nine-form{
+    height: 40px;
+    width: 250px;
+
+}
+
+
+
+
+.section-nine .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-nine .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-nine-two{
+    padding: 1rem;
+}
+
+
+
+.section-nine .form-row{
+    height: 300px;
+}
+
+
+
+
+
+
+.btn-tryfree{
+    background-color: #00897b;
+    color: #fff;
+    border-radius: 0.2rem;
+    width: 100px;
+
+}
+
+.section-nine-two a :hover{
+    background-color: #00897b;
+    color: black;
+
+}
+
+
+
+
+
+.section-seven{
+    
+    padding-left: 6rem;
+    padding-right: 6rem;   
+    padding-bottom: 1rem;
+    margin-top: 50px;
+}
+
+
+
+.section-seven .row{
+    margin-top: 20px;   
+}
+
+.section-seven .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-seven .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-seven .first{
+    margin-right: 1rem;
+    box-shadow: 0 0 0.4rem #888;    
+    padding: 3rem;
+    border-radius: 0.15rem;
+
+}
+
+.section-one .col-sm-12 .content{
+    flex-direction: row-reverse;
+
+}
+
+.section-one .col-md-6 .content{
+    flex-direction: row;
+}
+
+
+.section-one .row .content .col-md-6{
+    display: flex;
+    flex-direction: row;
+}
+
+.section-one .row .content .col-sm-12{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+
+.section-one img{
+    padding-top: 10rem;
+    height:auto;
+    width:500px;
+}
+
+.section-one .col-sm-12 img{
+    height: 250px;
+    width: auto;
+}
+
+
+.section-one .col-lg-6 img{
+    height:auto;
+    width:500px;
+}
+
+
+
+
+.section-one .section-one-button{
+    background-color: #00897b;
+    color: #fff;
+    border-color: #003a72;
+}
+
+
+
+.section-one .text-section{
+    padding-top: 14rem;
+    padding-bottom: 14rem;
+
+}
+
+.section-one .col-lg-12 .content{
+    flex-direction: row-reverse;
+}
+
+
+
+
+
+
+
+
+
+
+
+.section-one .image-section img{
+    height: auto;
+    width: 700px;
+    background-color: #fafbfb;
+    padding-top: 50px;
+
+}
+
+.section-seven .box-section{
+    padding: 2rem;
+}
+
+
+
+
+.section-seven .second{
+    box-shadow: 0 0 0.4rem #888;    
+    padding: 3rem;
+    border-radius: 0.15rem;
+    margin-right: 1rem;
+}
+
+.section-seven .third{
+    box-shadow: 0 0 0.4rem #888;    
+    padding: 3rem;
+    border-radius: 0.15rem;
+    
+}
+
+
+
+
+
+
+
+
+
+.section-seven .first a{
+    text-decoration: none;
+}
+
+
+
+.section-seven .second a{
+    text-decoration: none;
+}
+
+.section-seven .third a{
+    text-decoration: none;
+}
+
+
+.section-seven .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+
+
+
+.footer-section{
+    
+    padding-left: 6rem;
+    padding-right: 6rem;
+    background-color: #000;  
+    padding-bottom: 20px;
+
+}
+.footer-section .row{
+    margin-top: 20px;   
+}
+
+.footer-section .row{
+    margin-top: 20px;   
+}
+
+
+.footer-section .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.footer-section .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+.footer-right-section{
+    margin-left: 250px;
+
+}
+
+
+
+
+.footer-section a{
+    text-decoration: none;
+    color: #888;
+    font-size: 12px;
+}
+
+
+.footer-section p{
+    font-size: 12px;
+}
+
+
+
+
+
+.footer-section{
+    margin-top: 20px;
+
+}
+
+
+.footer-section a :hover{
+    color: #fff;
+}
+
+
+
+
+.footer-section p{
+    color: #888;
+    font-size: 14px;
+}
+
+
+.footer-section .last-paragraph{
+    padding-top: 160px;
+}
+
+
+.footer-right-section{
+
+}
+
+.section-one .dropdown-toggle{
+    width: 400px;
+    height:50px;
+
+}
+
+.section-one .carousel-inner {
+    width: 100%;
+    padding-top: 20px;
+
+}
+
+
+.card-one img{
+    height:60px;
+    width:60px;
+
+}
+
+.section-four .first{
+    width: 312px; 
+    height: 412px;
+}
+
+.section-four .second{
+    width: 312px; 
+    height: 412px;
+}
+
+
+
+
+.card-one h4{
+    padding-top: 20px;
+
+    font-weight: normal;
+}
+
+
+.card-one h6{
+    padding-top: 20px;
+    font-weight: normal;
+}
+
+
+.col-img{
+    height: auto;
+    width: 60px;
+
+}
+
+.col-first-img{
+    height: auto;
+    width: 115px;
+}
+
+
+.col-last-img{
+    height: auto;
+    width: 182px;
+}
+
+
+
+.btn-outline-resturant{
+    border-color: #00897b;
+    color: #00897b;
+}
+
+
+.btn-outline-retail{
+    border-color: #003a72;
+    color: #003a72;
+}
+
+
+
+.section-four .one .btn .btn-resturant-outline{
+    background-color: #00897b;
+
+}
+
+
+.section-four{
+    margin-top: 20px;
+    padding-top: 5rem;
+    padding-bottom: 5rem;   
+    background-color: #fafbfb;  
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+.section-four .row{
+    margin-top: 20px;   
+}
+
+.section-four .row h3{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+.section-four .row h5{
+    font-weight: normal;
+    margin-top: 20px;   
+}
+
+
+.body-section{
+    overflow: hidden;
+
+}
+
+.body-section{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.header-section{
+    z-index: 1;
+    padding-left: 1rem;
+    padding-right: 4rem;
+}
+
+
+
+
+.section-four .card{
+    border-radius: 0px;
+    position: static;
+
+}
+
+.section-one .form-design{
+    padding-top:20px;
+    padding-bottom: 20px;   
+    justify-content: center;
+    
+
+}
+
+
+.section-one .form-text .btn{
+    border-color: rgba(0, 0, 0, 0.267);
+    border-radius: 0px;
+    height: 3rem;
+    text-align: start;
+    
+}
+
+
+.section-one .form-button .btn{
+    height: 3rem;
+    background-color: #30881c;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 1rem;
+    width: 150px;
+    text-align: center;
+    
+}
+
+
+
+.header-section .col a{
+    color: white;
+    text-decoration: none;
+}
+
+.header-section .col a:hover{
+    color: rgb(216, 214, 214);
+}
+
+
+.header-section .btn{
+    font-size: large;
+    color: white;
+}
+
+.header-section .navbar-nav li a{
+    color: white;
+    text-decoration: none;
+}
+
+.header-section .collapse .navbar-collapse li a{
+    color: black;
+}
+
+.header-section .col{
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+}
+
+
+.header-section .dropdown .dropdown-menu li a{
+    color: black;
+}
+
+.header-section .dropdown .dropdown-menu li{
+    color: black;
+
+}
+
+.header-section .section-one{
+    background-color: #fff;
+}
+
+.header-section .collapse .navbar-collapse li a{
+    color: white;
+    text-decoration: none;
+}
+
+.header-section li{
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    padding-right: 1rem;
+}
+
+
+.header-section .nav-item .dropdown li{
+    padding-left: 4rem;
+}
+
+
+ 
+.header-section .btn a :hover{
+    color: rgb(216, 214, 214);
+    background-color: #212529;
+}
+
+.header-section .dropdown .button{
+    color: white;
+} 
+
+
+
+.header-section .navbar-toggler{
+    background-color: white ;
+}
+
+.header-section .navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+    display: contents;
+}
+
+
+
+.carousel slide{
+    background-color: aqua;
+
+}
+
+
+.section-one .image-section{
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+
+.carousel-inner{
+    width: 100%;
+    
+}
+
+
+
+
+
+
+
+
+.carousel .image-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+
+
